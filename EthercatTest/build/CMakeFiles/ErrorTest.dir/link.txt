@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/ErrorTest.dir/ErrorTestQrob.cpp.o  -o ErrorTest  /usr/local/lib/libsoem.a -lpthread -lrt 

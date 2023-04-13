@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/CubeMarsMultiTest.dir/EthercatCubemarsMultiTest.cpp.o  -o CubeMarsMultiTest  /usr/local/lib/libsoem.a -lpthread -lrt 

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/WMAR_IK.dir/WMARInverseKinematics.cpp.o  -o WMAR_IK  /usr/local/lib/libsoem.a -lpthread -lrt 

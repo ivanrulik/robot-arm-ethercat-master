@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/RobotLibraryTest.dir/RobotLibraryTest.cpp.o  -o RobotLibraryTest  /usr/local/lib/libsoem.a -lpthread -lrt 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ivanrulik/thesis_ws/ETHERCAT_PROJECT-main/EthercatTest/csvfile.h
+string
+-
+iostream
+-
+fstream
+-
+sstream
+-
+
+/home/ivanrulik/thesis_ws/ETHERCAT_PROJECT-main/EthercatTest/testDataLogger.cpp
+csvfile.h
+/home/ivanrulik/thesis_ws/ETHERCAT_PROJECT-main/EthercatTest/csvfile.h
+
