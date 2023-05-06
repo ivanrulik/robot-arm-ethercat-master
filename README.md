@@ -1,1 +1,1 @@
-# ETHERCAT_PROJECT
+# Robot Arm EtherCAT Master
