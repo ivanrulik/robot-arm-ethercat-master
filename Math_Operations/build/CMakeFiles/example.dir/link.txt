@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/example.dir/Quintic.cpp.o  -o example 

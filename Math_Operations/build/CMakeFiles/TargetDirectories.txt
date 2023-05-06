@@ -1,4 +1,0 @@
-/home/user/ETHERCAT_PROJECT/ETHERCAT_PROJECT/Math_Operations/build/CMakeFiles/rebuild_cache.dir
-/home/user/ETHERCAT_PROJECT/ETHERCAT_PROJECT/Math_Operations/build/CMakeFiles/edit_cache.dir
-/home/user/ETHERCAT_PROJECT/ETHERCAT_PROJECT/Math_Operations/build/CMakeFiles/InverseKinematics.dir
-/home/user/ETHERCAT_PROJECT/ETHERCAT_PROJECT/Math_Operations/build/CMakeFiles/example.dir
