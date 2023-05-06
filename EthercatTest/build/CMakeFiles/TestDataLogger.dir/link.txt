@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/TestDataLogger.dir/testDataLogger.cpp.o  -o TestDataLogger  /usr/local/lib/libsoem.a -lpthread -lrt 

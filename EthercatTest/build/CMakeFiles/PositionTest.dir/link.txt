@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/PositionTest.dir/EthercatPositionTest.cpp.o  -o PositionTest  /usr/local/lib/libsoem.a -lpthread -lrt 

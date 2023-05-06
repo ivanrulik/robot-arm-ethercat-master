@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/QrobTestwLibrary.dir/QrobMotorTest.cpp.o  -o QrobTestwLibrary  /usr/local/lib/libsoem.a -lpthread -lrt 

@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/SlaveInfo.dir/SlaveInfo.cpp.o  -o SlaveInfo  /usr/local/lib/libsoem.a -lpthread -lrt 

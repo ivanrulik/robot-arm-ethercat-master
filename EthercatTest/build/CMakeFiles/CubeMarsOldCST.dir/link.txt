@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/CubeMarsOldCST.dir/EthercatCubemarsOLD.cpp.o  -o CubeMarsOldCST  /usr/local/lib/libsoem.a -lpthread -lrt 
