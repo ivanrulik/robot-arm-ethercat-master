@@ -5,6 +5,8 @@ function install(){
     echo "Starting Installation"
     sudo apt-get update
     sudo apt-get upgrade
+    sudo apt-get install libeigen3-dev
+    sudo apt-get install libgtkmm-3.0-dev
     echo "export RA_ECAT=$PWD" >> ~/.bashrc
     echo "Cloning SOEM"
     cd ..
