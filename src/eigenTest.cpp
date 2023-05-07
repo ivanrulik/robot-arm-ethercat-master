@@ -1,5 +1,3 @@
-// Markus Buchholz 2022
-
 #include <iostream>
 #include <cmath>
 #include <Eigen/Dense>

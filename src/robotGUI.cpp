@@ -1,3 +1,14 @@
+/**
+ * @file robotGUI.cpp
+ * @authors Ivan Rulik
+ * @brief EtherCAT code in C++ that uses SOEM, eigen3 and gtkmm3, to set up and control a 6DOF robotic arm
+ * @details before using this code run the install.sh script
+ * @version 0.1
+ * @date 2022-04-06
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include <gtkmm.h>
 #include "WMAR.h"
 #include "csvfile.h"

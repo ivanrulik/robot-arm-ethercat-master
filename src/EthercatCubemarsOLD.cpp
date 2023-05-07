@@ -1,19 +1,7 @@
 /**
- * @file pdo_test_cpp.cpp
- * @authors Ivan Rulik, Javier Sanjuan (rulik@uwm.edu, jsanjuan@uwm.edu)
- * @brief EtherCAT code in C++ that uses SOEM to run an EtherCAt master, load PDO maps and test 1 EtherCAT slave
- * with Cyclic Synchronous Torque (CST) over using PDOs
- * @details to run this code you will need to run the following commands in terminal:
- * 1. cd ~/<wherever you stored SOEM folder>/SOEM/
- * 2. mkdir build
- * 3. cd build
- * 4. cmake ..
- * 5. make
- * 6. cd test/linux/pdo_test_cpp/
- * 7. sudo ./pdo_test_cpp.cpp <your network interface for EtherCAT>
- * 8. example ./pdo_test_cpp.cpp enp3s0 (use ifconfig command in terminal to find the name of your network interface for ethercat)
- * When you run the code properly you will get something like:
- * O: 00 00 00 00 0a I:40 02 8b 3b 00 00 0a statusword 576 Position Values 15243
+ * @file EthercatCubemarsOLD.cpp
+ * @authors Ivan Rulik
+ * @brief Legacy code used to do proof of concept of this project. the rest of the project logic came from here
  * @version 0.1
  * @date 2022-04-06
  * 

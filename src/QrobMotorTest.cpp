@@ -1,12 +1,14 @@
-/*
-    Author: Javier Dario Sanjuan De Caro
-    email: jsanjuan@uwm.edu or jdecaro@uninorte.edu.co
-
-    QrobMotorTest
-
-    This code is for testing the QrobMotoLibrary (QrobMotor.h)
-
-*/
+/**
+ * @file QrobMotorTest.cpp
+ * @authors Ivan Rulik
+ * @brief EtherCAT code in C++ that uses SOEM to run an EtherCAt master, load PDO maps and test 1 EtherCAT slave
+ * with Cyclic Synchronous Torque (CST) over using PDOs
+ * @version 0.1
+ * @date 2022-04-06
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include "QrobMotor.h"
 #define EC_TIMEOUTMON 20000
 char IOmap[4096];

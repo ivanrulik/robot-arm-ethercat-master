@@ -1,13 +1,10 @@
-/*
-    Author: Javier Dario Sanjuan De Caro and Ivan Rulik
-    email: jsanjuan@uwm.edu or jdecaro@uninorte.edu.co
-    
-    Cubemars Motor class
-    
-    This code is used to configured the Cubemars motors and to run their different operation modes
-    using PDO communication. 
-
-*/
+/**
+ * @file CubemarsMotor.h
+ * @author Ivan Rulik
+ * @details It incorporates a class, called CubemarsMotor making it simple to interface with this drivers
+ * @date 05/07/2023
+ * @copyright Copyright (c) 2023
+**/
 #include "ODVariable.h"
 #include <iostream>
 #include <stdio.h>

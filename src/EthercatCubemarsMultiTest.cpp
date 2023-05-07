@@ -1,6 +1,6 @@
 /**
  * @file EthercatCubemarsMultiTest.cpp
- * @authors Ivan Rulik, Javier Sanjuan (rulik@uwm.edu, jsanjuan@uwm.edu)
+ * @authors Ivan Rulik
  * @brief EtherCAT code in C++ that uses SOEM over jsanjuan custom library to run an EtherCAt master, load PDO maps and test 1 EtherCAT slave
  * with Cyclic Synchronous Torque (CST) over using PDOs
  * @details to run this code you will need to run the following commands in terminal:

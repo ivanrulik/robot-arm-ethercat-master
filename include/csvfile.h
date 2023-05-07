@@ -1,3 +1,10 @@
+/**
+ * @file csvfile.h
+ * @author Ivan Rulik
+ * @details It incorporates a class, called csvfile allowing the users to generate comma separated files from their cpp programs
+ * @date 05/07/2023
+ * @copyright Copyright (c) 2023
+**/
 #pragma once
 #include <string>
 #include <iostream>

@@ -1,14 +1,10 @@
-/*
-    Author: Javier Dario Sanjuan De Caro
-    email: jsanjuan@uwm.edu or jdecaro@uninorte.edu.co
-
-    Motor class
-
-    This code is used to configured the Qrob motors and to run their different operation modes
-    using PDO communication.
-
-    The code requires the
-*/
+/**
+ * @file QRobMotor.h
+ * @author Ivan Rulik
+ * @details It incorporates a class, called QRobMotor making it simple to interface with this drivers
+ * @date 05/07/2023
+ * @copyright Copyright (c) 2023
+**/
 #include "ODVariable.h"
 #include <iostream>
 #include <stdio.h>
