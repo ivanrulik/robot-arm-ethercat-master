@@ -6,6 +6,9 @@ This project was meant to control a custom 6-Degrees-of-Freedom Robotic Arm usin
   <b>Figure: Robot Arm EtherCAT GUI</b>
 </p>
 
+## Results
+Here is a [link](https://youtu.be/VUlx2A8uqoY) to a Youtube video showing this project in action
+
 ## Requirements
 - OS: Linux 20.04 LTS (can work in other releases but it was developed on this one)
 - Computer: any regular laptop or desktop with a network card compatible with EtherCAT
